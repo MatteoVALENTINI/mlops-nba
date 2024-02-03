@@ -1,0 +1,3 @@
+2024-01-24 12:12:42,845:INFO:Starting NBA data processing...
+2024-01-24 12:12:43,092:INFO:Found 54 potential young stars
+2024-01-24 12:12:43,367:INFO:Data saved to data\curated\20240124-121243_potential_young_stars.parquet

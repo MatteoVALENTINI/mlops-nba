@@ -1,0 +1,5 @@
+2024-01-24 12:15:08,249:INFO:Starting NBA data processing...
+2024-01-24 12:15:08,441:INFO:Found 54 potential young stars
+2024-01-24 12:15:08,465:INFO:Data saved to data\curated\20240124-121508_potential_young_stars.parquet
+2024-01-24 12:15:08,603:INFO:RMSE: 1.44540239757276
+2024-01-24 12:15:08,638:INFO:NBA data processing completed successfully.
